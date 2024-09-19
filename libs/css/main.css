@@ -72,10 +72,10 @@ body{
   text-align: center;
   border: none;
 }.panel-value{
-  width: 60%;
+  width: 50%;
 }.panel-icon{
   padding: 30px;
-  width: 40%;
+  width: 50%;
   border-radius: 0;
 }.panel-icon{
   -webkit-border-radius: 3px 0 0 3px;
@@ -92,6 +92,7 @@ body{
   line-height:65px;
   font-size: 40px;
   color: #ccc;
+  margin-left: -4px;
 }
 #header {
   position: fixed;
@@ -115,7 +116,7 @@ body{
     width: 250px;
     background-color: #004F3C;
 }.header-date{
-  color: #9b9b9b;
+  color: white;
   margin-left: 20px;
 }
 .info-menu{
@@ -138,6 +139,7 @@ body{
 }.info-menu li.profile a img{
   width: 30px;
   height: 30px;
+  margin-left: 3px;
 }.dropdown-menu{
   margin-top: 4px;
   border-color: #fefefe;
