@@ -40,7 +40,7 @@ body{
 }
 
 .bg-green{
-  background-color: #A3C86D;
+  background-color: #122231;
 }
 .bg-blue{
   background-color: #7ACBEE;
@@ -49,19 +49,19 @@ body{
   background-color: #FDD761;
 }
 .bg-red{
-  background-color: #FF7857;
+  background-color: #122231;
 }
 
 .bg-secondary1{
-	background-color: #b17897;
+	background-color: #122231;
 }
 
 .bg-blue2{
-	background-color: #7a83ee;
+	background-color: #122231;
 }
 .panel-default >.panel-heading{
   background-color: #f5f5f5;
-  border-bottom: 2px solid #3498DB;
+  border-bottom: 5px solid #005B45;
   font-size: 15px;
   text-transform: uppercase;
   letter-spacing: .5px;
@@ -91,7 +91,7 @@ body{
 .panel-icon i{
   line-height:65px;
   font-size: 40px;
-  color: #fff;
+  color: #ccc;
 }
 #header {
   position: fixed;
@@ -176,6 +176,7 @@ body{
   background: #122231;
   border-right: 1px solid #ddd;
   text-align: center;
+  overflow-y: auto;
 }.sidebar ul li:hover,.submenu ul li:hover{
   -webkit-transition: all .2s ease-in-out;
   transition: all .2s ease-in-out;
@@ -192,11 +193,12 @@ body{
 }.sidebar ul li a,ul.submenu li a {
   color: #aeb2b7;
   display: block;
-  overflow: hidden;
+  overflow-y: hidden;
   position: relative;
   white-space: nowrap;
   text-decoration: none;
   text-align: left;
+  margin-top: 30px;
 }.sidebar ul li a span,.sidebar ul li i{
   font-size: 14px;
   font-weight: 300;
@@ -319,4 +321,8 @@ input[type=file]{
 }img.img-size-2{
   width: 125px;
   height: 125px;
+}
+.matahum-logo {
+  width: 50px;
+  height: auto;
 }
