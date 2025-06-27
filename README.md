@@ -4,6 +4,10 @@ A web-based inventory system built for a local rice trading business to monitor 
 
 🎓 **School Project** | 👥 **Client-Based**
 
+🔗 [**Landing Page**](https://matahum-rice-retailing-inventory-ma.vercel.app/)   
+🔗 [**Inventory Demo**]()  
+
+
 ---
 
 ## 🔧 Tech Stack
@@ -27,8 +31,28 @@ A web-based inventory system built for a local rice trading business to monitor 
 
 ## 🖼️ Screenshots
 
-![Dashboard](screenshots/dashboard.png)  
-![Inventory Table](screenshots/inventory.png)
+<div align="center">
+  <img src="screenshots/Login.png" width="600px"><br>
+  <strong>Login Page</strong>
+  <br><br>
+
+  <img src="screenshots/Dashboard.png" width="600px"><br>
+  <strong>Dashboard</strong>
+  <br><br>
+
+  <img src="screenshots/Products.png" width="600px"><br>
+  <strong>Products Page</strong>
+  <br><br>
+
+  <img src="screenshots/Sales.png" width="600px"><br>
+  <strong>Sales Page</strong>
+  <br><br>
+
+  <img src="screenshots/User_Management.png" width="600px"><br>
+  <strong>User Management</strong>
+  <br><br>
+
+</div>
 
 ---
 
