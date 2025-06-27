@@ -56,7 +56,7 @@ function App() {
             price: "₱50",
             image: "/[Cherry Tree] [Ordinary Rice] [5 Kilo Sack].png",
             description: "This rice does not clump up when cooked.",
-            origin: "Local", // Add origin field
+            origin: "Local", 
           },
           {
             id: 2,
