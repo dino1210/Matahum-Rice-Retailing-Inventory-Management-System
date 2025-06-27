@@ -21,7 +21,7 @@ function App() {
   id="hero" 
   className="bg-cover bg-center h-screen flex items-center justify-center text-center p-6" 
   style={{
-    backgroundImage: "url('/public/bg-img.jpeg')", // Add your image path here
+    backgroundImage: "url('/bg-img.jpeg')", // Add your image path here
     backgroundPosition: "center",
     backgroundSize: "cover"
   }}
